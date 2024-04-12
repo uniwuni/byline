@@ -29,7 +29,7 @@ module Byline.Menu
     askWithMenu,
     askWithMenuRepeatedly,
     Choice (..),
-
+    defaultFromChoice,
     -- * Re-exports
     module Byline,
   )
